@@ -1,0 +1,8 @@
+* JT Analytics
+
+*All code here is my experimental*
+
+This repo is:
+- a utility library for analytics task I want to execute
+- where I run my tinkering with random apis
+https://docs.openstack.org/cliff/ocata/demoapp.html

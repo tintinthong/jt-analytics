@@ -6,3 +6,4 @@ tmp/
 cliffdemo.egg-info/
 dist
 build/
+.venv/
