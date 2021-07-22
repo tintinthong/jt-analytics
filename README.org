@@ -6,3 +6,11 @@ This repo is:
 - a utility library for analytics task I want to execute
 - where I run my tinkering with random apis
 https://docs.openstack.org/cliff/ocata/demoapp.html
+
+#+begin_src bash
+pip install virtualenv
+virtualenv .venv
+. .venv/bin/activate
+python setup.py install #install cliff
+python setup.py install
+#+end_src
