@@ -3,7 +3,7 @@
 *.log
 tmp/
 .env
-cliffdemo.egg-info/
+jt.egg-info/
 dist
 build/
 .venv/
